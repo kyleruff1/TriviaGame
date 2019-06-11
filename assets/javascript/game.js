@@ -8,16 +8,16 @@ $(document).ready(function(){
     var incorrect = 0;
     var unanswered = 0;
 
-var question = ["Which of the following is not a character from Saved By the Bell?",
-    "What is Rocko's dog's name in the 90's TV show: Rocko's Modern Life?",
-    "Which of the following is NOT, a character from : AHH, Real Monsters?",
-    "What is the name of the protagonists 'crush' in: Boy Meets World?",
-    "What does TGIF stand for?"];
-var answer = ["Scooter", "Spunky", "Stinky", "Topanga", "Thank Goodness It's Friday"];
-var firstChoice = ["Zack", "Roscoe", "Ickis", "Clarissa", "Top Golf Is Fun"];
-var secondChoice = ["Scooter", "Spunky", "Krum", "Sabrina", "Thank Goodness It's Friday", ];
-var thirdChoice = ["Kelly", "Heffer", "Stinky", "Topanga", "This Guy Is Funny"];
-var fourthChoice = ["A.C. Slater", "Merlin", "Hairyette", "Hariette", "The Greek Intervention Framework"];
+var question = ["Which opposing player had the top individual scoring game against the Utah Jazz?",
+    "Which Jazz player’s father played on the 1984 NCAA Championship team with Michael Jordan at North Carolina??",
+    "Which Jazz Player has played the most minutes over his career",
+    "Which Jazz Player is the all-time True Shooting percentage leader?",
+    "How Many Head Coaches have the Utah Jazz had?"];
+var answer = ["Kobe Bryant", "Dante Exum", "Karl Malone", "Rudy Gobert", "8"];
+var firstChoice = ["Michael Jordan", "Dante Exum", "John Stockton", "Donovan Mitchell", "8"];
+var secondChoice = ["Kobe Bryant", "Rudy Gobert", "Jeff Hornaceck", "Karl Malone", "10", ];
+var thirdChoice = ["Lebron James", "Jae Crowder", "Andre Kirelinko", "Kyle Korver", "13"];
+var fourthChoice = ["ShaQ", "Ricky Rubio", "Karl Malone", "Rudy Gobert", "7"];
 
 // Show & Hide Functions
     function showboxes() {
@@ -155,7 +155,7 @@ var fourthChoice = ["A.C. Slater", "Merlin", "Hairyette", "Hariette", "The Greek
         }
         else if(count === 4) {
             $("#image-box").show();
-            $("#image-box").html('<img src="assets/tgif2.png">');
+            $("#image-box").html('<img src="assets/tgif2.jpg">');
 
         }
     }

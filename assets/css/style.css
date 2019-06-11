@@ -5,7 +5,9 @@ h1, .jumbotron {
 }
 
 .jumbotron {
-	background-image: url("../images/header-img.jpg");
+    background-image: url("../images/header-img.jpg");
+    background-size: 30%;
+    background-position: top;
 }
 
 body {
