@@ -96,24 +96,29 @@ h3  {
     font-family: 'Bree Serif', serif;
     border-style: groove;
     color: gold;
+    text-shadow: 2px 2px black;
 
 }
 #answer-box {
-    color: salmon; 
-    font-size: 200%;
+    color: goldenrod; 
+    font-size: 150%;
     font-weight: bolder;
+    text-shadow: 2px 3px black;
+    
 
 }
 #correct-box   {
     font-family: 'Bree Serif', serif;
     border-style: groove;
     color: gold;
+    text-shadow: 2px 2px black;
 
 }
 #incorrect-box   {
     font-family: 'Bree Serif', serif;
     border-style: groove;
     color: gold;
+    text-shadow: 2px 2px black;
 
 }
 #unanswered-box   {
@@ -128,5 +133,6 @@ h3  {
     color: orangered;
     margin-left: 50%;
     font-size: 50%;
+    text-shadow: 2px 2px black;
 
 }
