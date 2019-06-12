@@ -18,7 +18,7 @@ body {
     background-color: black;
     color: white;
   font-size: 50px;
-  background-image: url("/assets/images/mitch.jpg");
+  background-image: url("../images/mitch.jpg");
   background-size: 70%;
   background-position: center;
 }
