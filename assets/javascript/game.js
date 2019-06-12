@@ -101,7 +101,7 @@ var fourthChoice = ["ShaQ", "Ricky Rubio", "Karl Malone", "Rudy Gobert", "7"];
     }
 
     function resetTime() {
-        time = 31;
+        time = 11;
     }
 
     function displayTime() {
