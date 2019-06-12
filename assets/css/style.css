@@ -1,13 +1,21 @@
 h1, .jumbotron {
 	text-align: center;
-	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-family: 'Lobster', cursive;
+  font-size: 100px;
 	color: #fff;
 }
+.container {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
 
+}
 .jumbotron {
     background-image: url("../images/header-img.jpg");
-    background-size: 30%;
+    background-size: 100%;
     background-position: top;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lobster', cursive;
+  font-size: 50px;
 }
 
 body {
@@ -15,6 +23,8 @@ body {
     text-align: center;
     background-color: black;
     color: white;
+    font-family: 'Lobster', cursive;
+  font-size: 50px;
 }
 
 img {
@@ -36,6 +46,8 @@ img {
   color: #ffffff; 
   background-color: #000000; 
   border-color: #FFFFFF; 
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
 } 
  
 .btn:active, 
@@ -43,6 +55,8 @@ img {
 .open .dropdown-toggle.btn { 
   background-image: none; 
   color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
 } 
  
 .btn.disabled, 
@@ -62,6 +76,8 @@ fieldset[disabled] .btn:active,
 fieldset[disabled] .btn.active { 
   background-color: #B8A351; 
   border-color: #FFFFFF; 
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
 } 
  
 .btn .badge { 
@@ -71,18 +87,43 @@ fieldset[disabled] .btn.active {
 
 #choice-box-1 {
     color: white;
+    font-family: 'Lobster', cursive;
+  font-size: 50px;
 
 }
 #choice-box-2 {
     color: white;
+    font-family: 'Lobster', cursive;
+  font-size: 50px;
 
     
 }
 #choice-box-3 {
     color: white;
+    font-family: 'Lobster', cursive;
+  font-size: 50px;
     
 }
 #choice-box-4 {
     color: white;
+    font-family: 'Lobster', cursive;
+  font-size: 50px;
     
+}
+.buttonbox1 {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+
+.buttonbox2 {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+.buttonbox3 {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
+}
+.buttonbox4 {
+  font-family: 'Lobster', cursive;
+  font-size: 50px;
 }

@@ -147,15 +147,15 @@ var fourthChoice = ["ShaQ", "Ricky Rubio", "Karl Malone", "Rudy Gobert", "7"];
         }
         else if(count === 2) {
             $("#image-box").show();
-            $("#image-box").html('<img src="assets/images/krum.png">');
+            $("#image-box").html('<img src="assets/images/topanga.jpg">');
         }
         else if(count === 3) {
             $("#image-box").show();
-            $("#image-box").html('<img src="assets/images/topanga.jpg">');
+            $("#image-box").html('<img src="assets/images/rudy.jpg">');
         }
         else if(count === 4) {
             $("#image-box").show();
-            $("#image-box").html('<img src="assets/tgif2.jpg">');
+            $("#image-box").html('<img src="assets/images/court.jpg">');
 
         }
     }
